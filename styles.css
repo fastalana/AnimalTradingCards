@@ -1,13 +1,19 @@
 
 body{
-	width:380px;
+	width:320px; /*changed*/
 }
+
 span{
 	font-weight:bold;
 }
+
 li{
 	list-style-type: none;
 	text-align: left;
+}
+
+ul{
+	padding-left: 0;
 }
 
 h3{
@@ -23,7 +29,7 @@ img{
 }
 
 .alignment{
-	margin:10px;
+	margin:10px 0;
 	padding:10px;
 }
 
