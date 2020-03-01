@@ -11,6 +11,10 @@
 	box-shadow: 10px 10px lightgrey;
 }
 
+.interestingFact{
+	font-style: italic;
+}
+
 body{
 	width:400px;
 }
