@@ -1,5 +1,6 @@
 # AnimalTradingCards
 This project was built for the Udacity Introduction to Prorgaming Nanodegree. This project demonstrates an understanding of HTML and CSS. The design prototype below was used to generate HTML and CSS to reproduce the design with an animal of your choice.
+
 ![Design Prototype](design-prototype.png)
 
 ## Must haves:
